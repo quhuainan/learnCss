@@ -1,0 +1,38 @@
+#h2id{
+    color: violet;
+}
+h1 {
+    color: green;
+}
+.h1 {
+    color: red
+}
+
+/* h2,p {
+    color: tan;
+} */
+h2 em {
+    color: teal;
+}
+/* *{
+    color: teal;
+} */
+
+
+
+h1[class]{
+  font-size: 20px;  
+}
+a:visited{color: red;}
+a:link{color: blue;}
+.name{
+   font-weight: 600;
+   height: 64px;
+}
+.name:focus{background: brown; }
+.test{
+    height: 24px;
+}
+.test:hover{background: burlywood;font-size: 28px;}
+*:lang(en){font-style: italic;}
+h2:first-letter{font-size: 200%;}
