@@ -1,4 +1,4 @@
-##第一章 CSS与HTML
+## 第一章 CSS与HTML
 ##### 元素
 - 块元素：能够包含子元素 ：block
 - 行内元素： 不能包含子元素 :inline
@@ -28,9 +28,10 @@
     - 伪类选择器: 元素:关键字 {color:red}
         - 静态伪类: link:未点击的超链接 ,visited: 点击过得超链接
         - 动态伪类: focus: 获取焦点时起作用,hover: 鼠标悬停时起作用, active: 激活元素时起作用
-    - 伪元素选择器: 1.first-letter 2.first-line
+    - 伪元素选择器: 1.first-letter 2.first-line 3.before 4.
      ```
         <h2><h2:first-letter>T</h2:first-letter>his is an h2 element</h2>
     ```  
     
+    ## 第三章 结构与层叠
 
