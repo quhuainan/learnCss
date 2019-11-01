@@ -1,0 +1,29 @@
+
+
+h1{
+    color: red;
+}
+.green {
+    color: green;
+}
+
+*{color: black;}
+
+#blue{
+    color: blue;
+    text-indent: 6em;
+}
+p{
+    background: brown;
+}
+
+
+.auto {
+    margin-left: auto;
+    margin-right: 100px;
+    width: auto;
+    background: beige;
+}
+/* h1{
+    color: red !important;
+} */
